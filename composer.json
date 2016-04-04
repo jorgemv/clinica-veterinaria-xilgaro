@@ -1,8 +1,13 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "symfony/clinica-veterinaria-xilgaro",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "Web de la clinica Xilgaro",
+    "authors": {
+            "name": "Jorge Martinez",
+            "email": "jorge.martnz@gmail.com",
+            "role": "Developer"
+        },
     "autoload": {
         "psr-4": { "": "src/" },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
